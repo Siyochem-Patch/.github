@@ -52,6 +52,9 @@
  - One screen restriction removed (You can use multiple screens)
  - Removed restriction for some programmes from running.
 
+> [!IMPORTANT]
+> SPECIAL: Smaller installer file sizes, (For example, official windows installer is 200+ MB while outs only 75 MB. WOW Right?
+
 ## Current Available Features (Android Only)
  - Screenshot & Record restrictions removed.
 
