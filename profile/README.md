@@ -30,7 +30,7 @@
 
 ## How Legal?
 
-  - Searh Bar has released the "Siyochem Desktoo" under Creative Commons license, specially allowing for modifications to the software withing legal bounds. i have lawfully applied patches solely to the "Siyochem Desktop", which's distributed under the CC0-1.0 license, permitting such alternations.
+  - Searh Bar has released the "Siyochem Desktop" under Creative Commons license, specially allowing for modifications to the software withing legal bounds. i have lawfully applied patches solely to the "Siyochem Desktop", which's distributed under the CC0-1.0 license, permitting such alternations.
 
   - Additionally, I injected a small amount of JS into website (not the site itself but the rendered one in electron), to improve GUI. This action remains withing legal limits, given that the code was added to content covered by a permissive license. 
 
