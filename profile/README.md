@@ -52,7 +52,6 @@
 
 ## Current Available Features (Windows, Linux, MacOS Only)
  - New Improved GUI - Dark Mode, Colorizations.
-
  - Screenshot & Record restrictions are removed.
  - User Watermark Removed (Animated Watermark removed - from Player)
  - Can download courses directly from server (With the help of dev tools)
