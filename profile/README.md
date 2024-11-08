@@ -53,7 +53,13 @@
  - Removed restriction for some programmes from running.
 
 > [!IMPORTANT]
-> SPECIAL: Smaller installer file sizes, (For example, official windows installer is 200+ MB while outs only 75 MB. WOW Right?
+> SPECIAL: Officials provide desktop apps for only `Windows` & `MacOS`, but we're cross platform, we support `Linux` too. Every linux kernel, every distro.
+
+> [!IMPORTANT]
+> SPECIAL: Flexible setup types. Officials provide only a `.exe` and a `.dmg` and no more. But we provide much more. <br/> ⚪ `.exe`, `unpacked.zip` for `Windows` & <br/> ⚪ `.AppImage`, `.deb`, `.snap`, `unpacked.zip` for `Linux` & <br/> ⚪ `.dmg`, `unpack-arm64.zip`, `unpacked.zip` for `Mac Os`. 
+
+> [!IMPORTANT]
+> SPECIAL: Smaller installer file sizes, (For example, official windows installer is 200+ MB while outs only 75 MB. WOW Right?)
 
 ## Current Available Features (Android Only)
  - Screenshot & Record restrictions removed.
