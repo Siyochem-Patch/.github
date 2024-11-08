@@ -21,7 +21,7 @@
 
 <div align="center">
   <a href="https://github.com/Siyochem-Patch/Siyochem-Android">
-    <img src="https://img.shields.io/badge/Special%20Offer-Download%20Now%20for%20Android%20Without%20Verify!-green?style=for-the-badge&logo=appveyor" alt="Special Offer">
+    <img src="https://img.shields.io/badge/Special%20Offer-Download%20Now%20for%20Android%20Without%20Verify!-blue?style=for-the-badge&logo=appveyor" alt="Special Offer">
   </a>
 </div>
 
@@ -71,7 +71,7 @@
 
 ## Current Available Features (Android Only)
  - Screenshot & Record restrictions removed.
- - [![Special Offer](https://img.shields.io/badge/Special%20Offer-Download%20Now%20for%20Android%20Without%20Verify!-green?style=for-the-badge&logo=appveyor)](https://github.com/Siyochem-Patch/Siyochem-Android)
+ - [![Special Offer](https://img.shields.io/badge/Special%20Offer-Download%20Now%20for%20Android%20Without%20Verify!-blue?style=for-the-badge&logo=appveyor)](https://github.com/Siyochem-Patch/Siyochem-Android)
 
 
 ---
