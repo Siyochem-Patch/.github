@@ -1,9 +1,9 @@
 <p align="center">
   <a href="https://dragon.edu.lk/Siyochem">
-    <img src="https://github.com/user-attachments/assets/9c75cf3b-0176-4516-a343-45ed1d9fc364" alt="Siyochem Logo" width="200px">
+<!--     <img src="https://github.com/user-attachments/assets/9c75cf3b-0176-4516-a343-45ed1d9fc364" alt="Siyochem Logo" width="200px"> -->
+    <img src="https://github.com/user-attachments/assets/ed8b4f47-3e90-4c91-b067-f6e2fad4544d" alt="Siyochem Logo" width="150px">
   </a>
 </p>
-
 
 <h1 align="center">Siyochem Patch</h1>
 
